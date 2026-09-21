@@ -1,0 +1,11 @@
+{
+  "reponame": "new-po",
+  "productname": "neww",
+  "productdomain": "nwmw.com",
+  "apibaseurl": "https://api.nwmw.com",
+  "subdomain": "addffg",
+  "orunWorkspace": "org_344468f713ec4b44affa41a7446a182c",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
